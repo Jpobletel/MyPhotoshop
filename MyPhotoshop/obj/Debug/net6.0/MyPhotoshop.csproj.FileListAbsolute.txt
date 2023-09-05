@@ -1,0 +1,34 @@
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/MyPhotoshop
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/MyPhotoshop.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/MyPhotoshop.runtimeconfig.json
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/MyPhotoshop.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/ref/MyPhotoshop.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/MyPhotoshop.pdb
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/bin/Debug/net6.0/SixLabors.ImageSharp.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.csproj.CopyComplete
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/ref/MyPhotoshop.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.pdb
+/home/rodrigo/Desktop/IIC2113/2023-2/Clases/Clase 06/Actividad/MyPhotoshop/MyPhotoshop/obj/Debug/net6.0/MyPhotoshop.genruntimeconfig.cache
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\MyPhotoshop.exe
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\MyPhotoshop.deps.json
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\MyPhotoshop.runtimeconfig.json
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\MyPhotoshop.dll
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\MyPhotoshop.pdb
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.csproj.AssemblyReference.cache
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.AssemblyInfoInputs.cache
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.AssemblyInfo.cs
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.csproj.CopyComplete
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.dll
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\refint\MyPhotoshop.dll
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.pdb
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\MyPhotoshop.genruntimeconfig.cache
+C:\Users\javie\RiderProjects\MyPhotoshop\MyPhotoshop\obj\Debug\net6.0\ref\MyPhotoshop.dll

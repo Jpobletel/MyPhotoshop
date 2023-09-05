@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lk7kJBrt6gdXt1s5At6qa3RVfoKW67y0uoJ9WdFNPgdLEyaSCz0g3ATuRBrwhXpq/xCmN+jocD5sDp0SCyNR7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JavierPobletelopez\\Desktop\\MyPhotoshop\\MyPhotoshop\\MyPhotoshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\JavierPobletelopez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
